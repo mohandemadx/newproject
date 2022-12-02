@@ -1,0 +1,35 @@
+{
+    "name": "KFC Project",
+    "short_name": "KFC",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "KFC Project",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "KFC.jpeg",
+            "sizes": "474x477",
+            "type": "image/png"
+        },
+        {
+            "src": "KFC.jpeg",
+            "sizes": "474x477",
+            "type": "image/png"
+        },
+        {
+            "src": "KFC.jpeg",
+            "sizes": "474x477",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "KFC.jpeg",
+            "sizes": "474x477",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
